@@ -13,4 +13,6 @@ skracamy plik
 
 ponownie zmiana w githubie
 
+zmiana siódma w sourcetree
+
 W 1820r roku została opisana cecha wzroku zwana bezwładnością oka. Powoduje ona, że obraz zauważony przez oko pomimo, że znika jeszcze przez chwilę jest w oku jakby zapamiętany. Dzięki temu efektowi pokazanie oku szybko zmieniających się obrazów sprawia wrażenie płynnego filmu. Na tym efekcie bazuje animacja.
