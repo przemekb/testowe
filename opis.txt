@@ -2,12 +2,9 @@ skracamy plik
 
 + druga zmiana
 
-<<<<<<< HEAD
 ++ trzecia zmiana
-=======
 ++ zmiana pod githubem
 
-
->>>>>>> f15e7cc59a5a4f0baad5a489c013f687bd69fdb9
+++++ zmiana czwarta
 
 W 1820r roku została opisana cecha wzroku zwana bezwładnością oka. Powoduje ona, że obraz zauważony przez oko pomimo, że znika jeszcze przez chwilę jest w oku jakby zapamiętany. Dzięki temu efektowi pokazanie oku szybko zmieniających się obrazów sprawia wrażenie płynnego filmu. Na tym efekcie bazuje animacja.
