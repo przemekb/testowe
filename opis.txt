@@ -11,6 +11,7 @@ skracamy plik
 
 +++++ piąta zmiana local-master2
 
+ponownie zmiana w githubie
 
 zmiana siódma w sourcetree
 
